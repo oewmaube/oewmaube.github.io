@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://oewmaube.github.io/sitemap/sitemap.txt
